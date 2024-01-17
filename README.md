@@ -1,26 +1,20 @@
-# CodeDrive: Autonomous Car Driving Simulation
+# CodeDrive: Self-Driving Car Simulation
 
-## Overview
-
-Welcome to CodeDrive, an autonomous car driving simulation powered by neural networks. This project offers a realistic virtual environment equipped with integrated sensors designed to detect potential collisions.
+Welcome to CodeDrive, a comprehensive Self-Driving Car Simulation entirely built in JavaScript. This project faithfully replicates real-world challenges, including road definitions, lane management, collision detection, and realistic traffic simulation.
 
 ## Key Features
 
-- **Neural Network-Based Decision Making**
-    - The heart of CodeDrive is a neural network trained using the backpropagation algorithm. This enables the car to make informed decisions while navigating the complex virtual environment.
+- **Realistic Simulation Environment**
+  - The simulation mirrors real-world scenarios, addressing challenges like road definitions, lane management, collision detection, and realistic traffic simulation.
 
-- **Visualization for Enhanced Learning**
-    - Implemented visualization methods provide valuable insights into the neural network's learning process. These visualizations help identify patterns from data, enhancing the car's decision-making capabilities and driving performance.
+- **Neural Network Integration**
+  - The car's "brain" is enhanced through neural networks, incorporating mutations for adaptive learning and improved decision-making over time.
 
-## Getting Started
+## Demo
 
-Follow the instructions below to get started with CodeDrive:
-
-1. Clone this repository to your local machine.
-2. Install the required dependencies and libraries.
-3. Run the simulation to witness autonomous car driving in action.
+Check out a [demo](https://drive.google.com/file/d/1yR0K3Rzf6fP1ZXNaYypLUC7T0hYarmTl/view?usp=sharing) of the Self-Driving Car Simulation.
 
 ## Contributing
 
-Contributions to CodeDrive are welcome! Feel free to submit bug reports, feature requests, or pull requests. Together, we can improve the simulation and make it even more sophisticated.
+Contributions to CodeDrive are welcome! Whether it's bug reports, feature requests, or pull requests, your involvement is crucial to the project's advancement. Let's collaborate to enhance CodeDrive and make it an even more impressive simulation.
 
